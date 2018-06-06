@@ -1,5 +1,8 @@
 # asset-dl
-Smart Asset Downloader
+Smart Asset Downloader.
+
+This CLI tool helps you download all assets (image, css and javascript) files contained in a page 
+and saves then according to their directory structure with just one click.
 
 ## Requirement
 -   python >= 3
