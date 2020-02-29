@@ -4,7 +4,6 @@
   <h1> asset-dl </h1>
 </p>
 
-# asset-dl
 Smart Asset Downloader.
 
 A CLI tool for downloading assets (image, css and javascript) files contained in a page and saves then according to their directory structure.
