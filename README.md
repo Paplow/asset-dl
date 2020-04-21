@@ -1,14 +1,8 @@
-<p align="center">
-  <img width="100" height="100" src=""><br>
-    <span> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" height="18"></a> </span>
-  <h1> asset-dl </h1>
-</p>
+## Smart Asset Downloader.
 
-Smart Asset Downloader.
+A CLI tool for downloading assets (image, css and javascript) files contained in a webpage and persisting them locally according to their directory structure.
 
-A CLI tool for downloading assets (images, css and javascript) files contained in a page and persist then according to their directory structure.
-
-- [Asset-dl](#asset-dl)
+- [asset-dl](#asset-dl)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
